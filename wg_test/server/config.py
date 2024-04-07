@@ -1,0 +1,1 @@
+credits_on_login = 100

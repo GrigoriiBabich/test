@@ -1,0 +1,8 @@
+{
+    "destroyer" : 100,
+    "battleship" : 150,
+    "cruiser" : 120,
+    "aircraft_carrier" : 200,
+    "torpedo" : 50,
+    "gun_battery" : 80
+}
