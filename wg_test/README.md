@@ -1,5 +1,6 @@
 ## Commands
 * exit – kill client
+* logout – back to login step
 * items – show available items
 * my_items – show user data
 * credits – show user credits
