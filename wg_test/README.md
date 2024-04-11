@@ -6,14 +6,14 @@ This application provides a simple way to manage items using a client-server arc
 
 1. Start the server by running the `manager.py` file in the `server` directory.
    
-    ```bash
+    ```
     python3 server/manager.py
     ```
 
 2. Then run the client by executing the file in the `client` directory.
 
-    ```bash
-    python3 client/client.py
+    ```
+    python3 client/manager.py
     ```
 
 ### Available Client Commands
