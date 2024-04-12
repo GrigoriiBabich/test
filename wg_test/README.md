@@ -40,7 +40,7 @@ This application provides a simple way to manage items using a client-server arc
 - User authentication is required for purchasing and selling operations.
 - Need to install tabulate for app
   ```
-  pip install tabulate
+  pip3 install tabulate
   ```
 
 
