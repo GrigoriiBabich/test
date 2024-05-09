@@ -4,13 +4,17 @@ This application provides a simple way to manage items using a client-server arc
 
 ### Installation and Running Instructions
 
-1. Start the server by running the `manager.py` file in the `server` directory.
+1. Install additional module
+    ```
+    pip3 install tabulate
+    ```
+3. Start the server by running the `manager.py` file in the `server` directory.
    
     ```
     python3 server/manager.py
     ```
 
-2. Then run the client by executing the file in the `client` directory.
+4. Then run the client by executing the file in the `client` directory.
 
     ```
     python3 client/manager.py
